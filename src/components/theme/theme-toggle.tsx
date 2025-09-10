@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "motion/react";
-import { useThemeToggle } from "./skiper26";
+import { useThemeToggle } from "./utils";
 import { cn } from "@/lib/utils";
 
 export type AnimationVariant =
